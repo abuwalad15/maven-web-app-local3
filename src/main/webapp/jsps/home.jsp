@@ -4,14 +4,13 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>MylandmarkTech.com- Home Page</title>
+<title>Make IT Simple - Home Page</title>
 <link href="images/log4.png" rel="icon">
 </head>
 </head>
 <body>
-<h1 align="center">Practice CICD Pipeline</h1>
-<h2 align="center"> By Abu Walad.
-	This is a CICD Pipeline exercise, using GitHub, Jenkins Local, Apache Tomcat Local. 
+<h1 align="center">Practice CICD Pipeline By Abu Walad.</h1>
+<h2 align="center">This is a CICD Pipeline exercise, using GitHub, Jenkins Local, Apache Tomcat Local. 
 	Using maven web application. hopefully this exercise is useful for many people.</h2>
 <hr>
 <div style="text-align: center;">
@@ -21,7 +20,7 @@
 	<span style="font-weight: bold;">
 		Make IT Simple, 
 		Bandung, West Java, Indonesia
-		+1 437 215 2483,
+		+62 856 2085 666,
 		thesimpleit@gmail.com
 		<br>
 	</span>

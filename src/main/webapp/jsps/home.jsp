@@ -11,30 +11,27 @@
 <body>
 <h1 align="center">Practice CICD Pipeline</h1>
 <h2 align="center"> By Abu Walad.
-	Special testimony and thanksgiving session coming up on Sunday June 27, 2021
-	Landmark Technology is a an ideal online training  platform for DevOps, Plaform and Cloud Engineers. 
-	We offer interview preparations and job assitance.
-	The shout of the King is in our midst. His name is JESUS.  HE IS OUR SUCCESS ACCESS KEY</h2>
+	This is a CICD Pipeline exercise, using GitHub, Jenkins Local, Apache Tomcat Local. 
+	Using maven web application. hopefully this exercise is useful for many people.</h2>
 <hr>
 <div style="text-align: center;">
 	<span>
 		<img src="images/log4.png" alt="" width="200">
 	</span>
 	<span style="font-weight: bold;">
-		Landmark Technology, 
-		Toronto, Ontario, Canada
+		Make IT Simple, 
+		Bandung, West Java, Indonesia
 		+1 437 215 2483,
-		mylandmarktech@gmail.com
+		thesimpleit@gmail.com
 		<br>
-		<a href="mailto:mylandmarktech@gmail.com">Mail to Landmark Technologies</a>
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>Landmark Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2019 by <a href="http://mylandmark.tech/">Landmark Technologies</a> </small></p>
+<p align=center>Make IT Simple</p>
+<p align=center><small>Copyrights 2025 by <a href="https://www.linkedin.com/in/abuwalad/">Abu Walad</a> </small></p>
 
 </body>
 </html>

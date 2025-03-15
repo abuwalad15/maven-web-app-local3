@@ -14,7 +14,7 @@
 	Using maven web application. hopefully this exercise is useful for many people.</h2>
 <hr>
 <div style="text-align: center;">
-	<span>
+	<span align="center">
 		<img src="images/log4.jpg" alt="" width="200">
 	</span>
 	<span style="font-weight: bold;">

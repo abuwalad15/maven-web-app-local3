@@ -14,9 +14,6 @@
 	Using maven web application. hopefully this exercise is useful for many people.</h2>
 <hr>
 <div style="text-align: center;">
-	<span>
-		<img src="images/log4.jpg" alt="" width="200" align="center">
-	</span>
 	<span style="font-weight: bold;">
 		Make IT Simple, 
 		Bandung, West Java, Indonesia
@@ -28,6 +25,13 @@
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
+<div align="center">
+	<span>
+		<img src="images/log4.jpg" alt="" width="200">
+	</span>
+
+</div>
+
 <hr>
 <p align=center>Make IT Simple</p>
 <p align=center><small>Copyrights 2025 by <a href="https://www.linkedin.com/in/abuwalad/">Abu Walad</a> </small></p>

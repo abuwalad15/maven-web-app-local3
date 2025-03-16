@@ -13,9 +13,9 @@
 <h2 align="center">This is a CICD Pipeline exercise, using GitHub, Jenkins Local, Apache Tomcat Local. 
 	Using maven web application. hopefully this exercise is useful for many people.</h2>
 <hr>
-<div align="center" style="text-align: center;">
+<div style="text-align: center;">
 	<span>
-		<img src="images/log4.jpg" alt="" width="200">
+		<img src="images/log4.jpg" alt="" width="200" align="center">
 	</span>
 	<span style="font-weight: bold;">
 		Make IT Simple, 
